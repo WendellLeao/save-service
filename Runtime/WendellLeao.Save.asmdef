@@ -1,0 +1,16 @@
+{
+    "name": "WendellLeao.Save",
+    "rootNamespace": "WendellLeao.Save",
+    "references": [
+        "WendellLeao.ServiceLocator"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
